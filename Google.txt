@@ -23,4 +23,5 @@ com.google.android.syncadapters.contacts
 com.google.android.tts
 com.google.android.videos
 com.google.android.youtube
+com.spotify.music
 com.google.audio.hearing.visualization.accessibility.scribe
