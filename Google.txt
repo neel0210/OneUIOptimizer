@@ -23,5 +23,15 @@ com.google.android.syncadapters.contacts
 com.google.android.tts
 com.google.android.videos
 com.google.android.youtube
-com.spotify.music
 com.google.audio.hearing.visualization.accessibility.scribe
+com.amazon.mShop.android.shopping
+com.eterno
+com.eterno.shortvideos
+com.amazon.avod.thirdpartyclient
+com.snapchat.android
+com.truecaller
+com.myntra.android
+com.jio.media.ondemand
+com.inspiredsquare.jupiter
+com.inspiredsquare.blocks
+com.gma.water.sort.puzzle

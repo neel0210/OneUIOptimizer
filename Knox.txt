@@ -10,4 +10,6 @@ com.android.managedprovisioning
 com.samsung.knox.keychain
 com.knox.vpn.proxyhandler
 com.samsung.ucs.agent.ese
+com.samsung.android.spay
 com.samsung.android.knox.pushmanager
+com.opera.max.global
